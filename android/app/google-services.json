@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "516061970152",
+    "project_id": "desishotapp",
+    "storage_bucket": "desishotapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516061970152:android:5ca1704578ce2be0b0d35d",
+        "android_client_info": {
+          "package_name": "com.example.desishot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516061970152-r76ecec8r8c4pd2rbde94umv0utaqa9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUkPk6mwIa0BJrIWlIdl1YWUesDcSOwt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516061970152-r76ecec8r8c4pd2rbde94umv0utaqa9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "516061970152-eujpbcnsdcdvq50nuv29o0n39u8hqtl4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.desishotApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516061970152:android:45c6937f424252f9b0d35d",
+        "android_client_info": {
+          "package_name": "com.yourcompany.desiShot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516061970152-r76ecec8r8c4pd2rbde94umv0utaqa9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUkPk6mwIa0BJrIWlIdl1YWUesDcSOwt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516061970152-r76ecec8r8c4pd2rbde94umv0utaqa9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "516061970152-eujpbcnsdcdvq50nuv29o0n39u8hqtl4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.desishotApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
